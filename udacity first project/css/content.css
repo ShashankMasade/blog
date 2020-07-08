@@ -1,0 +1,15 @@
+
+.content{
+    position: absolute;
+    
+    margin-left: 8%;
+    margin-right: 8%;
+    
+   
+}
+.content p{
+    text-align: justify;
+    line-height: 30pt;
+    
+        
+}
